@@ -10,7 +10,7 @@ Also see the wiki page on [Current State](https://github.com/dcs-sams/SAMs-MOD/w
 
 
 ## Credits and Contributions
-See the wiki page for source recognition for the hard work of those projects that came before this. It should be noted that the licensing for any contributions has been validated from previous sources, and any future contributors explicitly agree to the licensing model of this project for their work to be considered for inclusion.  We are building this for the DCS community as a non-profit, gratis community effort.
+See the [wiki page for source recognition](https://github.com/dcs-sams/SAMs-MOD/wiki/Credits) for the hard work of those projects that came before this. It should be noted that the licensing for any contributions has been validated from previous sources, and any future contributors explicitly agree to the licensing model of this project for their work to be considered for inclusion.  We are building this for the DCS community as a non-profit, gratis community effort.
 
 
 ## Bounty List

@@ -6,7 +6,7 @@ A project aimed at unifying a host of separate DCS SAMs modifications, some of w
 Feel free to check the [Issues](https://github.com/dcs-sams/SAMs-MOD/issues) tab above for more detailed information.  Below are the major issues that the team is aware of:
 
 
-Also see the wiki page on Current State for individual system inclusion and it's status.
+Also see the wiki page on [Current State](https://github.com/dcs-sams/SAMs-MOD/wiki/Current-State) for individual system inclusion and it's status.
 
 
 ## Credits and Contributions

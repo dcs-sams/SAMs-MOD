@@ -1,5 +1,5 @@
 # SAMs-MOD
-A project aimed at unifying a host of separate DCS SAMs modifications, some of which are defunct or abandoned.   This project's aim is to keep that hard work alive, as well as consolidate that work into a single source for centralization.  Not for control, but for allowing for multiple inputs, expertise and effort from talented contributors from across the DCS ecosystem.   The goal is to continue regular bug fixes, enhancements and new future models/units to the systems that are in use within DCS as a single Mod, not multiple conflicting mods.
+A project aimed at unifying a host of separate DCS SAMs modifications, some of which are defunct or abandoned.   This project's aim is to keep that hard work alive, as well as consolidate that work into a single source for community contribution and management.  Not for control, but to allow for multiple developers, expertise and effort from talented contributors from across the DCS ecosystem.   The goal is to continue regular bug fixes, enhancements and new future models/units to the systems that are in use within DCS as a single Mod, not multiple conflicting mods.
 
 
 ## Known Issues and Current State

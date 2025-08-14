@@ -3,6 +3,12 @@ A project aimed at unifying a host of separate DCS SAMs modifications, some of w
 
 The goal is to continue regular bug fixes, enhancements and new future models/units to the systems that are in use within DCS as a single Mod, not multiple conflicting mods.
 
+Current Target Mods:
+* [Auranis' HighDigitSams](https://github.com/Auranis/HighDigitSAMs)
+* [HFXLegion's Ultimate HDS](https://github.com/HFXLegion/HighDigitSAMs-Ultimate-Compilation)
+* [LetMePickThat and Strigoi_dk's SAM Sites Asset Pack (2SAP)](https://forum.dcs.world/topic/275571-sam-sites-asset-pack-a-3d-assets-mod-to-populate-you-sam-sites-farp-and-other-bases/)
+* [LetMePickThat and Strigoi_dk's S-300 SAM Pack](https://forum.dcs.world/topic/275571-sam-sites-asset-pack-a-3d-assets-mod-to-populate-you-sam-sites-farp-and-other-bases/)
+
 
 ## Known Issues and Current State
 Feel free to check the [Issues](https://github.com/dcs-sams/SAMs-MOD/issues) tab above for more detailed information.  Below are the major issues that the team is aware of:

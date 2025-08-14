@@ -21,7 +21,7 @@ Also see the wiki page on [Current State](https://github.com/dcs-sams/SAMs-MOD/w
 See the [wiki page for source recognition](https://github.com/dcs-sams/SAMs-MOD/wiki/Credits) for the hard work of those projects that came before this. It should be noted that the licensing for any contributions has been validated from previous sources, and any future contributors explicitly agree to the licensing model of this project for their work to be considered for inclusion.  We are building this for the DCS community as a non-profit, gratis community effort.
 
 
-## Bounty List
+## Bounty List (Coming soon)
 A list of community wishlist items from the official DCS Forums thread. These wishlist items are open for contribution, but it should be noted that there is required work to be done for each (texturing, animations, LODs) to make it into the official Mod.
 
 Bear in mind that requests made here do not necessarily mean acceptance as additions to the mod, as some systems asked for are simply not able to be accurately modeled within the DCS engine due to it's [limitations](https://github.com/dcs-sams/SAMs-MOD/wiki/DCS-Considerations).
